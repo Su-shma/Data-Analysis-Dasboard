@@ -23,6 +23,8 @@ The sales data set wants to create an annual sales report .So that the store wan
 - Used conditional formatting and Different types of appropriate Graphs/Charts
 -Used Slicers, Timeline, Formatting techniques to create a Dashboard.
 
+##Dashboard
+https://github.com/Su-shma/Data-Analysis-Dasboard/blob/main/Dashboard_Screenshot%20.png
 ##Project Insight
 
 -Most Used Shipment Mode is Regular air which has 1437 maximum customers.
