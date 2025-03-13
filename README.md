@@ -1,2 +1,5 @@
-# Data-Analysis-Dasboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages ,including data preprocessing ,data cleaning ,and data visualization. 
+#Sales Data set ' (Interactive Dashboard creation using MS Excel)
+##Project Objective
+The sales data set wants to create an annual sales report .So that the store wants to understand the
+ profitable products in states and cities.
+
