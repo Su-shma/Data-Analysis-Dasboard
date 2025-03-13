@@ -23,3 +23,17 @@ The sales data set wants to create an annual sales report .So that the store wan
 - Used conditional formatting and Different types of appropriate Graphs/Charts
 -Used Slicers, Timeline, Formatting techniques to create a Dashboard.
 
+##Project Insight
+
+-Most Used Shipment Mode is Regular air which has 1437 maximum customers.
+-The states of California is top most in 5 Profitable States
+-The Office Machines which has Top 3 least Profitable Product Sub- Categories
+-The maximum Top 10 most Profitable Cities are Washington, New City and so on.
+
+##Final Conclusion
+
+To Improve The sales ,a strategic marketing plan focusing on least profitable product  .
+Residing in least profitable products.The approch should include targeted digital marketing campaigns and personalized promotions to 
+capture their attention
+
+
