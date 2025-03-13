@@ -18,4 +18,8 @@ The sales data set wants to create an annual sales report .So that the store wan
 
 ##Process
 
--Verify data for any missing values and anomilies, and sort for same
+-  Query to Clean and upload the data into Data Model.
+-Created different Reports, Used maximum features offered in power pivot.
+- Used conditional formatting and Different types of appropriate Graphs/Charts
+-Used Slicers, Timeline, Formatting techniques to create a Dashboard.
+
