@@ -14,7 +14,7 @@ The sales data set wants to create an annual sales report .So that the store wan
 -Top 10 most Profitable Cities
 
 
--Dashboard Interaction <a href="
+-Dashboard Interaction <a href="https://github.com/Su-shma/Data-Analysis-Dasboard/blob/main/Dashboard_Screenshot%20.png"
 
 ##Process
 
